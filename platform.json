@@ -8,10 +8,6 @@
 	"engines":{
 		"platformio":"<5"
 	},
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/msquirogac/platform-propeller"
-	},
 	"version":"0.0.6",
     "dependencies":[
         {
@@ -27,12 +23,12 @@
 	"packages":{
 		"toolchain-propeller":{
 			"type":"toolchain",
-			"version":"https://github.com/msquirogac/platformio-propeller-package.git"
+			"version":"https://github.com/drome/platformio-propeller-package.git"
 		},
 		"tool-propeller-load":{
 			"type": "uploader",
 			"optional": true,
-			"version":"https://github.com/msquirogac/platformio-propeller-package.git"
+			"version":"https://github.com/dromer/platformio-propeller-package.git"
 		}
 	}
 }
