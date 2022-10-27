@@ -27,12 +27,12 @@
 	"packages":{
 		"toolchain-propeller":{
 			"type":"toolchain",
-			"version":"~1.0.0"
+			"version":"https://github.com/msquirogac/platformio-propeller-package.git"
 		},
 		"tool-propeller-load":{
 			"type": "uploader",
 			"optional": true,
-			"version":"~1.9.0"
+			"version":"https://github.com/msquirogac/platformio-propeller-package.git"
 		}
 	}
 }
