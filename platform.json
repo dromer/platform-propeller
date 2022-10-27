@@ -23,12 +23,12 @@
 	"packages":{
 		"toolchain-propeller":{
 			"type":"toolchain",
-			"version":"https://github.com/drome/platformio-propeller-package.git"
+			"version":"git@github.com:dromer/platformio-propeller-package.git"
 		},
 		"tool-propeller-load":{
 			"type": "uploader",
 			"optional": true,
-			"version":"https://github.com/dromer/platformio-propeller-package.git"
+			"version":"git@github.com:dromer/platformio-propeller-package.git"
 		}
 	}
 }
