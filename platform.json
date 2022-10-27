@@ -13,6 +13,12 @@
 		"url":"https://github.com/msquirogac/platform-propeller"
 	},
 	"version":"0.0.6",
+    "dependencies":[
+        {
+            "name": "external repo",
+            "version": "https://github.com/msquirogac/platformio-propeller-package"
+        }
+    ],
 	"packageRepositories":[
 		"https://dl.bintray.com/platformio/dl-packages/manifest.json",
 		"http://dl.platformio.org/packages/manifest.json",
